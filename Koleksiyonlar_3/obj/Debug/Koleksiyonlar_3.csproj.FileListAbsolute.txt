@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\Koleksiyonlar_3\Koleksiyonlar_3\obj\Debug\Koleksiyonlar_3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Koleksiyonlar_3\Koleksiyonlar_3\obj\Debug\Koleksiyonlar_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Koleksiyonlar_3\Koleksiyonlar_3\obj\Debug\Koleksiyonlar_3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Koleksiyonlar_3\Koleksiyonlar_3\bin\Debug\Koleksiyonlar_3.exe.config
+C:\Users\LENOVO\source\repos\Koleksiyonlar_3\Koleksiyonlar_3\bin\Debug\Koleksiyonlar_3.exe
+C:\Users\LENOVO\source\repos\Koleksiyonlar_3\Koleksiyonlar_3\bin\Debug\Koleksiyonlar_3.pdb
+C:\Users\LENOVO\source\repos\Koleksiyonlar_3\Koleksiyonlar_3\obj\Debug\Koleksiyonlar_3.exe
+C:\Users\LENOVO\source\repos\Koleksiyonlar_3\Koleksiyonlar_3\obj\Debug\Koleksiyonlar_3.pdb
